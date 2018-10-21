@@ -1,0 +1,9 @@
+C:\Users\Cenarius\source\repos\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.csprojAssemblyReference.cache
+C:\Users\Cenarius\source\repos\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.csproj.CoreCompileInputs.cache
+C:\Programs\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.csprojAssemblyReference.cache
+C:\Programs\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.csproj.CoreCompileInputs.cache
+C:\Programs\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.exe.config
+C:\Programs\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.exe
+C:\Programs\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.pdb
+C:\Programs\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.exe
+C:\Programs\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.pdb
